@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "GraphQL Intro",
+            "author": "Eva Helm",
+            "topic": "JavaScript",
+            "url": "https://github.com/EvaHelm"
+        },
+        {
+            "id": 2,
+            "title": "Programming Basics",
+            "author": "Eva Helm",
+            "topic": "Programming",
+            "url": "https://github.com/EvaHelm"
+        },
+        {
+            "id": 3,
+            "title": "Django 3",
+            "author": "Eva Helm",
+            "topic": "Python",
+            "url": "https://github.com/EvaHelm"
+        }
+    ]
+}
